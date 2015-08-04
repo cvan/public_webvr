@@ -1,0 +1,22 @@
+{
+  "lang": "en",
+  "name": "Seavan World Presents Pulse by Cabbibo",
+  "short_name": "Pulse",
+  "icons": [
+    {
+      "src": "icon-350.png",
+      "sizes": "350x350",
+      "type": "image/png"
+    }
+  ],
+  "scope": "/public_webvr/",
+  "start_url": "/public_webvr/index.html#VR",
+  "display": "stereo",
+  "theme_color": "black",
+  "videos": [
+    {
+      "src": "https://pbs.twimg.com/tweet_video/CFvjB7WVEAA65xO.mp4",
+      "type": "video/mp4"
+    }
+  ]
+}
